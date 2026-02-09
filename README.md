@@ -53,7 +53,7 @@ Other Skills:             Test Case Design, Bug Reporting, Requirement Analysis,
 🔍 Real-time pose correction using CNN models<br> 
 ⚡ 95% accuracy on 20,000+ image dataset<br> 
 💡 30% reduction in data preprocessing time<br><br> 
-<a href="https://github.com/heenaikramdekhan"> 
+<a href="https://github.com/heenaikramdekhan/PoseMate---Pose-Estimation-Correction.git"> 
 <img src="https://img.shields.io/github/stars/heenaikramdekhan?style=social" /> 
 </a> 
 <a href="https://github.com/heenaikramdekhan"> 
