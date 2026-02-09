@@ -56,7 +56,7 @@ Other Skills:             Test Case Design, Bug Reporting, Requirement Analysis,
 <a href="https://github.com/heenaikramdekhan/PoseMate---Pose-Estimation-Correction.git"> 
 <img src="https://img.shields.io/github/stars/heenaikramdekhan?style=social" /> 
 </a> 
-<a href="https://github.com/heenaikramdekhan"> 
+<a href="https://github.com/heenaikramdekhan/PoseMate---Pose-Estimation-Correction.git"> 
 <img src="https://img.shields.io/badge/View%20Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white" /> 
 </a> 
 </p> 
