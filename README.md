@@ -85,10 +85,10 @@ Other Skills:             Test Case Design, Bug Reporting, Requirement Analysis,
 🔍 Apriori algorithm implementation in C++<br> 
 ✨ Market basket analysis insights<br> 
 🎯 Inventory management optimization<br><br> 
-<a href="https://github.com/heenaikramdekhan"> 
+<a href="https://github.com/heenaikramdekhan/Predicting-Frequent-item-set-sold-in-a-Grocery-Store-.git"> 
 <img src="https://img.shields.io/github/stars/heenaikramdekhan?style=social" /> 
 </a> 
-<a href="https://github.com/heenaikramdekhan"> 
+<a href="https://github.com/heenaikramdekhan/Predicting-Frequent-item-set-sold-in-a-Grocery-Store-.git"> 
 <img src="https://img.shields.io/badge/View%20Projects-9C27B0?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
 </a> 
 </p> 
